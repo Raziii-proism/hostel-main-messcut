@@ -1,0 +1,8 @@
+[functions.create-student]
+verify_jwt = true
+
+[functions.create-warden]
+verify_jwt = false
+
+[functions.bulk-create-students]
+verify_jwt = true
